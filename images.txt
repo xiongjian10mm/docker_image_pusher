@@ -7,3 +7,7 @@ nginx
 ghcr.io/metatube-community/metatube-server
 ghcr.io/jellyfin/jellyfin
 docker.io/mzz2017/v2raya
+plexinc/pms-docker
+emby/embyserver
+jxxghp/moviepilot
+iyuucn/iyuuplus-dev
