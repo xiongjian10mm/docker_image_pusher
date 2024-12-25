@@ -11,3 +11,4 @@ plexinc/pms-docker
 emby/embyserver
 jxxghp/moviepilot-v2
 iyuucn/iyuuplus-dev
+homeassistant/home-assistant
