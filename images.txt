@@ -14,3 +14,4 @@ iyuucn/iyuuplus-dev
 homeassistant/home-assistant
 dhr2333/beancount-trans-frontend
 fireflyiii/core
+xdbin/beancount-gs
