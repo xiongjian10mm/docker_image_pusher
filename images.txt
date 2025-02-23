@@ -17,3 +17,4 @@ fireflyiii/core
 xdbin/beancount-gs
 dhr2333/beancount-trans-backend
 containrrr/watchtower
+idootop/mi-gpt
