@@ -16,3 +16,4 @@ dhr2333/beancount-trans-frontend
 fireflyiii/core
 xdbin/beancount-gs
 dhr2333/beancount-trans-backend
+containrrr/watchtower
