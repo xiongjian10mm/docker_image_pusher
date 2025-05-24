@@ -19,3 +19,4 @@ dhr2333/beancount-trans-backend
 containrrr/watchtower
 idootop/mi-gpt
 deluan/navidrome:latest
+xhongc/music_tag_web:latest
