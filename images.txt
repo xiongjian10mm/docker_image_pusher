@@ -20,3 +20,5 @@ containrrr/watchtower
 idootop/mi-gpt
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
+lscr.io/linuxserver/transmission:latest
+lscr.io/linuxserver/qbittorrent:latest
