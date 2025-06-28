@@ -23,3 +23,4 @@ xhongc/music_tag_web:latest
 lscr.io/linuxserver/transmission:latest
 lscr.io/linuxserver/qbittorrent:latest
 allanpk716/chinesesubfinder
+foamzou/melody
