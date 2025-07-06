@@ -30,3 +30,4 @@ markliu2018/moneynote-h5:latest
 markliu2018/moneynote-all-no-mysql:latest
 mysql:latest
 phpmyadmin/phpmyadmin
+nginx:1.21-alpine
