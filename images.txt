@@ -22,5 +22,10 @@ deluan/navidrome:latest
 xhongc/music_tag_web:latest
 lscr.io/linuxserver/transmission:latest
 lscr.io/linuxserver/qbittorrent:latest
-allanpk716/chinesesubfinder
-foamzou/melody
+allanpk716/chinesesubfinder:latest
+foamzou/melody:latest
+markliu2018/moneynote-api:latest
+markliu2018/moneynote-pc:latest
+markliu2018/moneynote-h5:latest
+markliu2018/moneynote-all-no-mysql:latest
+mysql:latest
