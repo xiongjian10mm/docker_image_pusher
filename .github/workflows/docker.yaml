@@ -25,6 +25,11 @@ jobs:
         echo "Before freeing up disk space"
         echo "=============================================================================="
         df -hT
+        # 添加手动清理，因为 maximize-build-space 可能不够彻底
+        sudo rm -rf /usr/share/dotnet
+        sudo rm -rf /usr/local/lib/android
+        sudo rm -rf /opt/hostedtoolcache
+        sudo journalctl --vacuum-size=100M
         echo "=============================================================================="
 
     # 增加可用磁盘空间
