@@ -10,6 +10,7 @@ mzz2017/v2raya:2.2.1
 plexinc/pms-docker
 emby/embyserver
 jxxghp/moviepilot-v2
+jxxghp/moviepilot-v3
 iyuucn/iyuuplus-dev
 homeassistant/home-assistant
 dhr2333/beancount-trans-frontend
