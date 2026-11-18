@@ -13,12 +13,12 @@ jxxghp/moviepilot-v2
 jxxghp/moviepilot-v3
 iyuucn/iyuuplus-dev
 homeassistant/home-assistant
-dhr2333/beancount-trans-frontend
-fireflyiii/core
-xdbin/beancount-gs
-dhr2333/beancount-trans-backend
+#dhr2333/beancount-trans-frontend
+#fireflyiii/core
+#xdbin/beancount-gs
+#dhr2333/beancount-trans-backend
 containrrr/watchtower
-idootop/mi-gpt
+#idootop/mi-gpt
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
 lscr.io/linuxserver/transmission:latest
