@@ -12,7 +12,7 @@ emby/embyserver
 jxxghp/moviepilot-v2
 jxxghp/moviepilot-v3
 iyuucn/iyuuplus-dev
-homeassistant/home-assistant
+#homeassistant/home-assistant
 #dhr2333/beancount-trans-frontend
 #fireflyiii/core
 #xdbin/beancount-gs
